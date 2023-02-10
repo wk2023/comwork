@@ -19,3 +19,4 @@ class Bullet(Sprite):
 
     def draw_bullet(self):
         pygame.draw.rect(self.screen, self.color, self.rect)
+        print('shuaxin')
