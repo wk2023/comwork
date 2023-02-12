@@ -1,0 +1,10 @@
+# 第一章 基础知识
+print(type(3/3))
+print(type(3*3))
+print(type(2//2))
+print(type(10/3))
+print(10/3)
+print(type(10//3))
+print(10//3)
+print(10%3)
+print(type(10%3))
